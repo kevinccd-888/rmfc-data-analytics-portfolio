@@ -3,7 +3,7 @@
 ## 📊 Project Overview
 This project presents a data-driven recruitment strategy and a multi-year economic outlook for a professional football club. Using **Tableau**, I developed an interactive visual analytics suite to identify elite replacement talent while strictly adhering to complex tactical, physical, and financial constraints.
 
-**🔗 [View the Interactive Dashboard on Tableau Public][(把这里换成你的Tableau网页链接)](https://public.tableau.com/views/RMFC_Football_Analytics_Project/ScoutingTacticalDetails?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+**🔗 [View the Interactive Dashboard on Tableau Public] https://public.tableau.com/views/RMFC_Football_Analytics_Project/ScoutingTacticalDetails?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ## 🎯 Key Business Objectives
 * **Financial Efficiency:** Secure 4 to 6 elite players within a strictly capped $25,000,000 budget.
